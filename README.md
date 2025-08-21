@@ -29,5 +29,21 @@ Projeto DSList - Intensivão Java Spring
 - Controller, service, repository  
 - Padrão DTO  
 
+<img width="991" height="427" alt="image" src="https://github.com/user-attachments/assets/03903e1b-72da-4bd3-b628-8a9d53a36555" />
+
+<img width="925" height="369" alt="image" src="https://github.com/user-attachments/assets/9ddbaa80-f12a-41ed-804d-7d19c4d396d5" />
+
+<img width="962" height="352" alt="image" src="https://github.com/user-attachments/assets/9f687946-79c3-4e41-9734-c35dbbaf4a2c" />
+
+## Aula 02 - O que aprendi:
+ - Relacionamentos N-N
+ - Classe de associação, embeddedid
+ - Consultas SQL no Spring Data JPA
+ - Projections
+
+
+
+
+
 
 
