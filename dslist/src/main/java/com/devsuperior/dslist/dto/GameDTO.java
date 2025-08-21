@@ -2,8 +2,7 @@ package com.devsuperior.dslist.dto;
 
 
 import com.devsuperior.dslist.entities.Game;
-import jakarta.persistence.Entity;
-import jakarta.persistence.Table;
+
 import org.springframework.beans.BeanUtils;
 
 public class GameDTO {
